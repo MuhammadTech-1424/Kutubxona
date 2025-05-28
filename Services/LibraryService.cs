@@ -1,20 +1,53 @@
+using Models;
+using Data;
 
-using System;
-using System.Collections.Generic;
-using Kutubxona.Brokers;
-using Kutubxona.Models;
-
-namespace Kutubxona.Services
+namespace Services
 {
-    class LibraryService
+    public class LibraryService
     {
-        public static void BookList()
+        private readonly DataStore _dataStore;
+
+        public LibraryService(DataStore dataStore)
         {
-            List<Book> bookList = DataProcessor.RetreavingDataFromBooks();
-            foreach (Book book in bookList)
+            _dataStore = dataStore;
+        }
+
+        public List<Book> GetBooks() => _dataStore.LoadBooks();
+
+        public Book GetBookById(int id) => GetBooks().FirstOrDefault(b => b.Id == id);
+
+        public void BorrowBook(int bookId, User user)
+        {
+            var books = _dataStore.LoadBooks();
+            var book = books.FirstOrDefault(b => b.Id == bookId);
+            if (book != null && book.AvailableCount > 0)
             {
-                Console.WriteLine($"'{book.Id}': {book.Name} ({book.Author})");
-            }    
+                book.AvailableCount--;
+                book.ReadingUsers.Add(user.FirstName);
+                _dataStore.SaveBooks(books);
+
+                var users = _dataStore.LoadUsers();
+                var currentUser = users.FirstOrDefault(u => u.Id == user.Id);
+                currentUser?.BorrowedBooks.Add(book.Title);
+                _dataStore.SaveUsers(users);
+            }
+        }
+
+        public void ReturnBook(int bookId, User user)
+        {
+            var books = _dataStore.LoadBooks();
+            var book = books.FirstOrDefault(b => b.Id == bookId);
+            if (book != null && user.BorrowedBooks.Contains(book.Title))
+            {
+                book.AvailableCount++;
+                book.ReadingUsers.Remove(user.FirstName);
+                _dataStore.SaveBooks(books);
+
+                var users = _dataStore.LoadUsers();
+                var currentUser = users.FirstOrDefault(u => u.Id == user.Id);
+                currentUser?.BorrowedBooks.Remove(book.Title);
+                _dataStore.SaveUsers(users);
+            }
         }
     }
 }

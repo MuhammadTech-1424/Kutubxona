@@ -1,16 +1,13 @@
-using System;
-using System.Collections.Generic;
-
-namespace Kutubxona.Models
+namespace Models
 {
-    class Book
+    public class Book
     {
-        public string Id { get; set; }
-        public string Name { get; set; }
+        public int Id { get; set; }
+        public string Title { get; set; }
         public string Genre { get; set; }
         public string Author { get; set; }
-        public ushort TotalNumbers { get; set; }
-        public ushort AvailableNumbers { get; set; }
-        public List<Reader> BookReaders = new List<Reader>();
+        public int TotalCount { get; set; }
+        public int AvailableCount { get; set; }
+        public List<string> ReadingUsers { get; set; } = new List<string>();
     }
 }
