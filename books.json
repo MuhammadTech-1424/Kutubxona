@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Alkimyogar",
+        "genre": "Fantastika",
+        "author": "Paulo Coelho",
+        "total_count": 10,
+        "available_count": 10,
+        "readers": []
+    },
+    {
+        "id": 2,
+        "title": "Ufq",
+        "genre": "Drama",
+        "author": "Abdulla Qodiriy",
+        "total_count": 5,
+        "available_count": 5,
+        "readers": []
+    },
+    {
+        "id": 3,
+        "title": "Shaytanat",
+        "genre": "Jinoyat",
+        "author": "Tohir Malik",
+        "total_count": 8,
+        "available_count": 8,
+        "readers": []
+    },
+    {
+        "id": 4,
+        "title": "Ikki eshik orasi",
+        "genre": "Psixologik",
+        "author": "Erkin A'zam",
+        "total_count": 7,
+        "available_count": 7,
+        "readers": []
+    },
+    {
+        "id": 5,
+        "title": "Sariq devni minib",
+        "genre": "Sarguzasht",
+        "author": "Xudoyberdi To'xtaboyev",
+        "total_count": 6,
+        "available_count": 6,
+        "readers": []
+    }
+]
