@@ -1,0 +1,1648 @@
+[
+  {
+    "Id": "B001",
+    "Name": "Ufq 1",
+    "Genre": "Roman",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 12,
+    "AvailableNumbers": 7,
+    "BookReaders": [
+      {
+        "Name": "Vali",
+        "Password": "1234"
+      }
+    ]
+  },
+  {
+    "Id": "B002",
+    "Name": "Mehrobdan chayon 2",
+    "Genre": "Roman",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 11,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Ziyod",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B003",
+    "Name": "Ufq 3",
+    "Genre": "Roman",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 20,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Lola",
+        "Password": "1234"
+      },
+      {
+        "Name": "Vali",
+        "Password": "qwerty"
+      }
+    ]
+  },
+  {
+    "Id": "B004",
+    "Name": "Mehrobdan chayon 4",
+    "Genre": "Psixologik",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 16,
+    "AvailableNumbers": 11,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "test"
+      },
+      {
+        "Name": "Lola",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B005",
+    "Name": "Dunyoning ishlari 5",
+    "Genre": "Sarguzasht",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 7,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "1234"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "test"
+      }
+    ]
+  },
+  {
+    "Id": "B006",
+    "Name": "Zaharli hayot 6",
+    "Genre": "Tarixiy",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 12,
+    "AvailableNumbers": 1,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "kitob123"
+      },
+      {
+        "Name": "Ali",
+        "Password": "test"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "reader2025"
+      }
+    ]
+  },
+  {
+    "Id": "B007",
+    "Name": "Mehrobdan chayon 7",
+    "Genre": "Fantastika",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 4,
+    "BookReaders": [
+      {
+        "Name": "Aziza",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Karim",
+        "Password": "qwerty"
+      }
+    ]
+  },
+  {
+    "Id": "B008",
+    "Name": "Sariq devni minib 8",
+    "Genre": "Tarixiy",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 17,
+    "AvailableNumbers": 11,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Shuhrat",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Ziyod",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B009",
+    "Name": "Mehrobdan chayon 9",
+    "Genre": "Tarixiy",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 4,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Nozima",
+        "Password": "karim2024"
+      },
+      {
+        "Name": "Ziyod",
+        "Password": "reader2025"
+      }
+    ]
+  },
+  {
+    "Id": "B010",
+    "Name": "Dunyoning ishlari 10",
+    "Genre": "Detektiv",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 15,
+    "AvailableNumbers": 3,
+    "BookReaders": []
+  },
+  {
+    "Id": "B011",
+    "Name": "Dunyoning ishlari 11",
+    "Genre": "Detektiv",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 7,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B012",
+    "Name": "Dunyoning ishlari 12",
+    "Genre": "Detektiv",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 5,
+    "BookReaders": [
+      {
+        "Name": "Vali",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Shuhrat",
+        "Password": "1111"
+      },
+      {
+        "Name": "Ziyod",
+        "Password": "test"
+      }
+    ]
+  },
+  {
+    "Id": "B013",
+    "Name": "Dunyoning ishlari 13",
+    "Genre": "Fantastika",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 18,
+    "AvailableNumbers": 14,
+    "BookReaders": [
+      {
+        "Name": "Aziza",
+        "Password": "kitob123"
+      },
+      {
+        "Name": "Lola",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B014",
+    "Name": "Dunyoning ishlari 14",
+    "Genre": "Roman",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 4,
+    "BookReaders": [
+      {
+        "Name": "Aziza",
+        "Password": "qwerty"
+      }
+    ]
+  },
+  {
+    "Id": "B015",
+    "Name": "Ufq 15",
+    "Genre": "Fantastika",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 5,
+    "BookReaders": [
+      {
+        "Name": "Shuhrat",
+        "Password": "karim2024"
+      }
+    ]
+  },
+  {
+    "Id": "B016",
+    "Name": "Sariq devni minib 16",
+    "Genre": "Tarixiy",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 1,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Lola",
+        "Password": "1234"
+      },
+      {
+        "Name": "Vali",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B017",
+    "Name": "Sariq devni minib 17",
+    "Genre": "Tarixiy",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 10,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "1234"
+      }
+    ]
+  },
+  {
+    "Id": "B018",
+    "Name": "Yulduzli tunlar 18",
+    "Genre": "Psixologik",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 10,
+    "AvailableNumbers": 0,
+    "BookReaders": []
+  },
+  {
+    "Id": "B019",
+    "Name": "Zaharli hayot 19",
+    "Genre": "Sarguzasht",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 12,
+    "BookReaders": []
+  },
+  {
+    "Id": "B020",
+    "Name": "Ajdodlar sadosi 20",
+    "Genre": "Tarixiy",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 9,
+    "AvailableNumbers": 9,
+    "BookReaders": []
+  },
+  {
+    "Id": "B021",
+    "Name": "Dunyoning ishlari 21",
+    "Genre": "Fantastika",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 0,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "1234"
+      },
+      {
+        "Name": "Vali",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B022",
+    "Name": "Ajdodlar sadosi 22",
+    "Genre": "Fantastika",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 13,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Ziyod",
+        "Password": "qwerty"
+      },
+      {
+        "Name": "Vali",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Ziyod",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B023",
+    "Name": "Ufq 23",
+    "Genre": "Detektiv",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 10,
+    "BookReaders": [
+      {
+        "Name": "Ziyod",
+        "Password": "1111"
+      },
+      {
+        "Name": "Ziyod",
+        "Password": "1234"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "kitob123"
+      }
+    ]
+  },
+  {
+    "Id": "B024",
+    "Name": "Ikki eshik orasi 24",
+    "Genre": "Sarguzasht",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 7,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "reader2025"
+      }
+    ]
+  },
+  {
+    "Id": "B025",
+    "Name": "Yulduzli tunlar 25",
+    "Genre": "Sarguzasht",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 11,
+    "AvailableNumbers": 1,
+    "BookReaders": []
+  },
+  {
+    "Id": "B026",
+    "Name": "Yulduzli tunlar 26",
+    "Genre": "Detektiv",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 6,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "1111"
+      },
+      {
+        "Name": "Karim",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Ziyod",
+        "Password": "password"
+      }
+    ]
+  },
+  {
+    "Id": "B027",
+    "Name": "Ufq 27",
+    "Genre": "Psixologik",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 20,
+    "AvailableNumbers": 13,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "kitob123"
+      },
+      {
+        "Name": "Karim",
+        "Password": "reader2025"
+      }
+    ]
+  },
+  {
+    "Id": "B028",
+    "Name": "Ufq 28",
+    "Genre": "Sarguzasht",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 12,
+    "BookReaders": [
+      {
+        "Name": "Shuhrat",
+        "Password": "1234"
+      }
+    ]
+  },
+  {
+    "Id": "B029",
+    "Name": "Ajdodlar sadosi 29",
+    "Genre": "Psixologik",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 12,
+    "AvailableNumbers": 0,
+    "BookReaders": [
+      {
+        "Name": "Vali",
+        "Password": "test"
+      },
+      {
+        "Name": "Shuhrat",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Karim",
+        "Password": "pass2024"
+      }
+    ]
+  },
+  {
+    "Id": "B030",
+    "Name": "Sariq devni minib 30",
+    "Genre": "Detektiv",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 20,
+    "AvailableNumbers": 16,
+    "BookReaders": [
+      {
+        "Name": "Vali",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Lola",
+        "Password": "pass2024"
+      }
+    ]
+  },
+  {
+    "Id": "B031",
+    "Name": "Ufq 31",
+    "Genre": "Fantastika",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 12,
+    "AvailableNumbers": 9,
+    "BookReaders": [
+      {
+        "Name": "Aziza",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Nozima",
+        "Password": "1111"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "password"
+      }
+    ]
+  },
+  {
+    "Id": "B032",
+    "Name": "Ajdodlar sadosi 32",
+    "Genre": "Fantastika",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 15,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "password"
+      }
+    ]
+  },
+  {
+    "Id": "B033",
+    "Name": "Zaharli hayot 33",
+    "Genre": "Roman",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 4,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "password"
+      },
+      {
+        "Name": "Shaxnoza",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B034",
+    "Name": "Qorqma 34",
+    "Genre": "Detektiv",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 18,
+    "AvailableNumbers": 16,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "qwerty"
+      },
+      {
+        "Name": "Shaxnoza",
+        "Password": "kitob123"
+      }
+    ]
+  },
+  {
+    "Id": "B035",
+    "Name": "Ikki eshik orasi 35",
+    "Genre": "Tarixiy",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 8,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Karim",
+        "Password": "qwerty"
+      },
+      {
+        "Name": "Vali",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B036",
+    "Name": "Qorqma 36",
+    "Genre": "Detektiv",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 5,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "password"
+      },
+      {
+        "Name": "Nozima",
+        "Password": "1234"
+      }
+    ]
+  },
+  {
+    "Id": "B037",
+    "Name": "Qorqma 37",
+    "Genre": "Sarguzasht",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 16,
+    "AvailableNumbers": 12,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "karim2024"
+      }
+    ]
+  },
+  {
+    "Id": "B038",
+    "Name": "Yulduzli tunlar 38",
+    "Genre": "Sarguzasht",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 7,
+    "AvailableNumbers": 1,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B039",
+    "Name": "Zaharli hayot 39",
+    "Genre": "Sarguzasht",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 8,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Ziyod",
+        "Password": "1234"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "1234"
+      },
+      {
+        "Name": "Karim",
+        "Password": "password"
+      }
+    ]
+  },
+  {
+    "Id": "B040",
+    "Name": "Ikki eshik orasi 40",
+    "Genre": "Tarixiy",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 20,
+    "AvailableNumbers": 18,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "pass2024"
+      }
+    ]
+  },
+  {
+    "Id": "B041",
+    "Name": "Sariq devni minib 41",
+    "Genre": "Detektiv",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 8,
+    "AvailableNumbers": 4,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "kitob123"
+      },
+      {
+        "Name": "Vali",
+        "Password": "1234"
+      }
+    ]
+  },
+  {
+    "Id": "B042",
+    "Name": "Ufq 42",
+    "Genre": "Sarguzasht",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 6,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Ziyod",
+        "Password": "password"
+      }
+    ]
+  },
+  {
+    "Id": "B043",
+    "Name": "Dunyoning ishlari 43",
+    "Genre": "Tarixiy",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 5,
+    "BookReaders": [
+      {
+        "Name": "Karim",
+        "Password": "karim2024"
+      },
+      {
+        "Name": "Vali",
+        "Password": "qwerty"
+      }
+    ]
+  },
+  {
+    "Id": "B044",
+    "Name": "Yulduzli tunlar 44",
+    "Genre": "Tarixiy",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 11,
+    "AvailableNumbers": 9,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "test"
+      },
+      {
+        "Name": "Vali",
+        "Password": "qwerty"
+      }
+    ]
+  },
+  {
+    "Id": "B045",
+    "Name": "Yulduzli tunlar 45",
+    "Genre": "Detektiv",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 6,
+    "AvailableNumbers": 5,
+    "BookReaders": []
+  },
+  {
+    "Id": "B046",
+    "Name": "Qorqma 46",
+    "Genre": "Psixologik",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 18,
+    "AvailableNumbers": 10,
+    "BookReaders": []
+  },
+  {
+    "Id": "B047",
+    "Name": "Zaharli hayot 47",
+    "Genre": "Psixologik",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 16,
+    "AvailableNumbers": 5,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "kitob123"
+      },
+      {
+        "Name": "Ali",
+        "Password": "password"
+      },
+      {
+        "Name": "Shaxnoza",
+        "Password": "pass2024"
+      }
+    ]
+  },
+  {
+    "Id": "B048",
+    "Name": "Mehrobdan chayon 48",
+    "Genre": "Detektiv",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 17,
+    "AvailableNumbers": 12,
+    "BookReaders": [
+      {
+        "Name": "Vali",
+        "Password": "test"
+      },
+      {
+        "Name": "Vali",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B049",
+    "Name": "Zaharli hayot 49",
+    "Genre": "Roman",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 2,
+    "BookReaders": []
+  },
+  {
+    "Id": "B050",
+    "Name": "Zaharli hayot 50",
+    "Genre": "Roman",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 6,
+    "AvailableNumbers": 1,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "test"
+      },
+      {
+        "Name": "Karim",
+        "Password": "pass2024"
+      }
+    ]
+  },
+  {
+    "Id": "B051",
+    "Name": "Sariq devni minib 51",
+    "Genre": "Roman",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 15,
+    "AvailableNumbers": 11,
+    "BookReaders": [
+      {
+        "Name": "Dilshod",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Nozima",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B052",
+    "Name": "Ikki eshik orasi 52",
+    "Genre": "Sarguzasht",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 8,
+    "AvailableNumbers": 2,
+    "BookReaders": []
+  },
+  {
+    "Id": "B053",
+    "Name": "Ikki eshik orasi 53",
+    "Genre": "Roman",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 16,
+    "AvailableNumbers": 4,
+    "BookReaders": []
+  },
+  {
+    "Id": "B054",
+    "Name": "O‘tkan kunlar 54",
+    "Genre": "Tarixiy",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 11,
+    "AvailableNumbers": 11,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "password"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "pass2024"
+      }
+    ]
+  },
+  {
+    "Id": "B055",
+    "Name": "O‘tkan kunlar 55",
+    "Genre": "Detektiv",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 18,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B056",
+    "Name": "Dunyoning ishlari 56",
+    "Genre": "Psixologik",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 0,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "test"
+      },
+      {
+        "Name": "Shuhrat",
+        "Password": "reader2025"
+      }
+    ]
+  },
+  {
+    "Id": "B057",
+    "Name": "Ajdodlar sadosi 57",
+    "Genre": "Fantastika",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 13,
+    "AvailableNumbers": 6,
+    "BookReaders": [
+      {
+        "Name": "Shuhrat",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Shaxnoza",
+        "Password": "karim2024"
+      },
+      {
+        "Name": "Lola",
+        "Password": "1234"
+      }
+    ]
+  },
+  {
+    "Id": "B058",
+    "Name": "Zaharli hayot 58",
+    "Genre": "Sarguzasht",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 10,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Karim",
+        "Password": "karim2024"
+      }
+    ]
+  },
+  {
+    "Id": "B059",
+    "Name": "Sariq devni minib 59",
+    "Genre": "Fantastika",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 16,
+    "AvailableNumbers": 15,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "kitob123"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "1111"
+      },
+      {
+        "Name": "Vali",
+        "Password": "karim2024"
+      }
+    ]
+  },
+  {
+    "Id": "B060",
+    "Name": "Zaharli hayot 60",
+    "Genre": "Fantastika",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 8,
+    "AvailableNumbers": 0,
+    "BookReaders": []
+  },
+  {
+    "Id": "B061",
+    "Name": "Mehrobdan chayon 61",
+    "Genre": "Sarguzasht",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 9,
+    "AvailableNumbers": 6,
+    "BookReaders": []
+  },
+  {
+    "Id": "B062",
+    "Name": "Ajdodlar sadosi 62",
+    "Genre": "Fantastika",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 17,
+    "AvailableNumbers": 6,
+    "BookReaders": []
+  },
+  {
+    "Id": "B063",
+    "Name": "Zaharli hayot 63",
+    "Genre": "Fantastika",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 8,
+    "AvailableNumbers": 4,
+    "BookReaders": []
+  },
+  {
+    "Id": "B064",
+    "Name": "Dunyoning ishlari 64",
+    "Genre": "Fantastika",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 20,
+    "AvailableNumbers": 14,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Vali",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B065",
+    "Name": "Yulduzli tunlar 65",
+    "Genre": "Fantastika",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 8,
+    "BookReaders": []
+  },
+  {
+    "Id": "B066",
+    "Name": "Qorqma 66",
+    "Genre": "Tarixiy",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 12,
+    "AvailableNumbers": 12,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Shuhrat",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "pass2024"
+      }
+    ]
+  },
+  {
+    "Id": "B067",
+    "Name": "Dunyoning ishlari 67",
+    "Genre": "Psixologik",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 8,
+    "BookReaders": []
+  },
+  {
+    "Id": "B068",
+    "Name": "Ufq 68",
+    "Genre": "Fantastika",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 18,
+    "AvailableNumbers": 8,
+    "BookReaders": [
+      {
+        "Name": "Ali",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "password"
+      },
+      {
+        "Name": "Lola",
+        "Password": "pass2024"
+      }
+    ]
+  },
+  {
+    "Id": "B069",
+    "Name": "Mehrobdan chayon 69",
+    "Genre": "Detektiv",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 7,
+    "AvailableNumbers": 6,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B070",
+    "Name": "O‘tkan kunlar 70",
+    "Genre": "Detektiv",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 15,
+    "BookReaders": []
+  },
+  {
+    "Id": "B071",
+    "Name": "Mehrobdan chayon 71",
+    "Genre": "Psixologik",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 18,
+    "AvailableNumbers": 15,
+    "BookReaders": []
+  },
+  {
+    "Id": "B072",
+    "Name": "Yulduzli tunlar 72",
+    "Genre": "Psixologik",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 10,
+    "AvailableNumbers": 4,
+    "BookReaders": [
+      {
+        "Name": "Vali",
+        "Password": "1111"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "1234"
+      }
+    ]
+  },
+  {
+    "Id": "B073",
+    "Name": "Sariq devni minib 73",
+    "Genre": "Sarguzasht",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 14,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Karim",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Shaxnoza",
+        "Password": "reader2025"
+      }
+    ]
+  },
+  {
+    "Id": "B074",
+    "Name": "Mehrobdan chayon 74",
+    "Genre": "Tarixiy",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 10,
+    "AvailableNumbers": 7,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B075",
+    "Name": "Ajdodlar sadosi 75",
+    "Genre": "Psixologik",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 5,
+    "BookReaders": []
+  },
+  {
+    "Id": "B076",
+    "Name": "Ufq 76",
+    "Genre": "Fantastika",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 13,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Ziyod",
+        "Password": "test"
+      }
+    ]
+  },
+  {
+    "Id": "B077",
+    "Name": "Ufq 77",
+    "Genre": "Psixologik",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 16,
+    "AvailableNumbers": 14,
+    "BookReaders": [
+      {
+        "Name": "Dilshod",
+        "Password": "password"
+      },
+      {
+        "Name": "Ali",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Nozima",
+        "Password": "test"
+      }
+    ]
+  },
+  {
+    "Id": "B078",
+    "Name": "Ikki eshik orasi 78",
+    "Genre": "Detektiv",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 15,
+    "AvailableNumbers": 11,
+    "BookReaders": [
+      {
+        "Name": "Dilshod",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Ali",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Shaxnoza",
+        "Password": "password"
+      }
+    ]
+  },
+  {
+    "Id": "B079",
+    "Name": "Zaharli hayot 79",
+    "Genre": "Sarguzasht",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 6,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Ziyod",
+        "Password": "kitob123"
+      },
+      {
+        "Name": "Nozima",
+        "Password": "qwerty"
+      },
+      {
+        "Name": "Nozima",
+        "Password": "password"
+      }
+    ]
+  },
+  {
+    "Id": "B080",
+    "Name": "Ufq 80",
+    "Genre": "Psixologik",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 6,
+    "AvailableNumbers": 6,
+    "BookReaders": [
+      {
+        "Name": "Dilshod",
+        "Password": "reader2025"
+      },
+      {
+        "Name": "Lola",
+        "Password": "1234"
+      }
+    ]
+  },
+  {
+    "Id": "B081",
+    "Name": "Ajdodlar sadosi 81",
+    "Genre": "Fantastika",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 10,
+    "AvailableNumbers": 5,
+    "BookReaders": []
+  },
+  {
+    "Id": "B082",
+    "Name": "Ikki eshik orasi 82",
+    "Genre": "Sarguzasht",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 14,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "1111"
+      },
+      {
+        "Name": "Lola",
+        "Password": "qwerty"
+      },
+      {
+        "Name": "Vali",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B083",
+    "Name": "O‘tkan kunlar 83",
+    "Genre": "Psixologik",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 12,
+    "AvailableNumbers": 4,
+    "BookReaders": [
+      {
+        "Name": "Karim",
+        "Password": "password"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "reader2025"
+      }
+    ]
+  },
+  {
+    "Id": "B084",
+    "Name": "Dunyoning ishlari 84",
+    "Genre": "Roman",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 13,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "password"
+      },
+      {
+        "Name": "Shuhrat",
+        "Password": "password"
+      }
+    ]
+  },
+  {
+    "Id": "B085",
+    "Name": "Sariq devni minib 85",
+    "Genre": "Roman",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 10,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Ziyod",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Shaxnoza",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B086",
+    "Name": "Zaharli hayot 86",
+    "Genre": "Tarixiy",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 9,
+    "AvailableNumbers": 7,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "qwerty"
+      }
+    ]
+  },
+  {
+    "Id": "B087",
+    "Name": "Qorqma 87",
+    "Genre": "Tarixiy",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 20,
+    "AvailableNumbers": 5,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "karim2024"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "test"
+      }
+    ]
+  },
+  {
+    "Id": "B088",
+    "Name": "Dunyoning ishlari 88",
+    "Genre": "Tarixiy",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 7,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Karim",
+        "Password": "reader2025"
+      }
+    ]
+  },
+  {
+    "Id": "B089",
+    "Name": "Zaharli hayot 89",
+    "Genre": "Psixologik",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 12,
+    "AvailableNumbers": 8,
+    "BookReaders": [
+      {
+        "Name": "Shaxnoza",
+        "Password": "test"
+      },
+      {
+        "Name": "Vali",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B090",
+    "Name": "Ikki eshik orasi 90",
+    "Genre": "Detektiv",
+    "Author": "O'tkir Hoshimov",
+    "TotalNumbers": 20,
+    "AvailableNumbers": 2,
+    "BookReaders": [
+      {
+        "Name": "Lola",
+        "Password": "test"
+      },
+      {
+        "Name": "Ali",
+        "Password": "qwerty"
+      }
+    ]
+  },
+  {
+    "Id": "B091",
+    "Name": "Sariq devni minib 91",
+    "Genre": "Psixologik",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 9,
+    "AvailableNumbers": 1,
+    "BookReaders": [
+      {
+        "Name": "Karim",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B092",
+    "Name": "Mehrobdan chayon 92",
+    "Genre": "Psixologik",
+    "Author": "Said Ahmad",
+    "TotalNumbers": 5,
+    "AvailableNumbers": 5,
+    "BookReaders": []
+  },
+  {
+    "Id": "B093",
+    "Name": "Qorqma 93",
+    "Genre": "Psixologik",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 19,
+    "AvailableNumbers": 10,
+    "BookReaders": [
+      {
+        "Name": "Karim",
+        "Password": "qwerty"
+      }
+    ]
+  },
+  {
+    "Id": "B094",
+    "Name": "Ufq 94",
+    "Genre": "Detektiv",
+    "Author": "Erkin A'zam",
+    "TotalNumbers": 8,
+    "AvailableNumbers": 8,
+    "BookReaders": [
+      {
+        "Name": "Aziza",
+        "Password": "1234"
+      },
+      {
+        "Name": "Dilshod",
+        "Password": "pass2024"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "karim2024"
+      }
+    ]
+  },
+  {
+    "Id": "B095",
+    "Name": "Sariq devni minib 95",
+    "Genre": "Tarixiy",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 8,
+    "AvailableNumbers": 1,
+    "BookReaders": [
+      {
+        "Name": "Aziza",
+        "Password": "test"
+      },
+      {
+        "Name": "Vali",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B096",
+    "Name": "Yulduzli tunlar 96",
+    "Genre": "Roman",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 13,
+    "AvailableNumbers": 3,
+    "BookReaders": [
+      {
+        "Name": "Nozima",
+        "Password": "abc123"
+      },
+      {
+        "Name": "Ali",
+        "Password": "abc123"
+      }
+    ]
+  },
+  {
+    "Id": "B097",
+    "Name": "Zaharli hayot 97",
+    "Genre": "Detektiv",
+    "Author": "Tohir Malik",
+    "TotalNumbers": 10,
+    "AvailableNumbers": 7,
+    "BookReaders": [
+      {
+        "Name": "Karim",
+        "Password": "test"
+      },
+      {
+        "Name": "Lola",
+        "Password": "1111"
+      }
+    ]
+  },
+  {
+    "Id": "B098",
+    "Name": "Ajdodlar sadosi 98",
+    "Genre": "Tarixiy",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 11,
+    "AvailableNumbers": 6,
+    "BookReaders": [
+      {
+        "Name": "Karim",
+        "Password": "karim2024"
+      },
+      {
+        "Name": "Aziza",
+        "Password": "test"
+      }
+    ]
+  },
+  {
+    "Id": "B099",
+    "Name": "Sariq devni minib 99",
+    "Genre": "Tarixiy",
+    "Author": "Abdulla Qodiriy",
+    "TotalNumbers": 15,
+    "AvailableNumbers": 11,
+    "BookReaders": [
+      {
+        "Name": "Aziza",
+        "Password": "karim2024"
+      },
+      {
+        "Name": "Ali",
+        "Password": "karim2024"
+      }
+    ]
+  },
+  {
+    "Id": "B100",
+    "Name": "Mehrobdan chayon 100",
+    "Genre": "Tarixiy",
+    "Author": "Pirimqul Qodirov",
+    "TotalNumbers": 7,
+    "AvailableNumbers": 1,
+    "BookReaders": []
+  }
+]

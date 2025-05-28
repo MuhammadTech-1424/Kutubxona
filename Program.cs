@@ -1,48 +1,48 @@
 ﻿using System;
-using System.Reflection.Metadata;
 using Kutubxona.Services;
-
-LibraryService MyLibrary = new LibraryService();
 
 while (true)
 {
-    Console.WriteLine(" \t <<< KUTUBXONA >>> \n ");
-    Console.WriteLine("Assalom a'laykum, Kutubxonamizga xush kelibsiz!");
-    Console.WriteLine("\n1. Kirish" + "\n2. Ro'yxatdan o'tish" + "\t Tanlang: ");
+    Console.WriteLine(" \t Kutubxonamizga xush kelibsiz! \n");
+    Console.WriteLine("1. Kirish" + "\n2. Ro'yxatdan o'tish");
+    Console.Write(" \t Bo'limni tanlang: ");
 
-    string key = Console.ReadLine();
-    switch (key)
+    string choice1 = Console.ReadLine();
+    switch (choice1)
     {
         case "1":
-            MyLibrary.SignIn();
-            Console.WriteLine();
+        Console.Write(" \t Loginni kiriting: ");
+        string login1 = Console.ReadLine();
+        Console.Write(" \t Parolni kiriting: ");
+        string password1 = Console.ReadLine();
 
-            bool exit = true;
-            while (exit)
+            if (Register.SignIn(login1, password1))
             {
-                Console.WriteLine(" \t <<< KUTUBXONA >>> \n ");
-                Console.WriteLine("\n1. Ro'yxat" + "\n2. CHIQISH" + "\t Tanlang: ");
-
-                string choice = Console.ReadLine();
-                switch (choice)
+                while (true)
                 {
-                    case "1":
-                        MyLibrary.Menu();
-                        Console.WriteLine();
-                        break;
-                    case "2":
-                        MyLibrary.Exit(exit);
-                        break;
-                    default:
-                        Console.WriteLine("Noto'g'ri ma'lumot kiritildi!");
-                        Console.WriteLine();
-                        break;
+                    Console.WriteLine();
+                    Console.WriteLine(" \t <<< KUTUBXONA >>> ");
+                    Console.WriteLine(" \t Menu: ");
+                    LibraryService.BookList();
+
+                    Console.Write(" \t Kitobni tanlang: ");
+                    string bookId = Console.ReadLine();
+                    
                 }
             }
+            Console.WriteLine();
             break;
 
         case "2":
-            MyLibrary.SignUp();
+            Console.Write(" \t Loginni kiriting: ");
+            string login2 = Console.ReadLine();
+            Console.Write(" \t Parolni kiriting: ");
+            string password2 = Console.ReadLine();   
+
+            if (Register.SignUp(login2, password2))
+            {
+                Console.WriteLine("Tizimga qayta kiring!");
+            }
             Console.WriteLine();
             break;
 

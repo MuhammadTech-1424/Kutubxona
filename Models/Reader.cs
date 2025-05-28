@@ -7,11 +7,18 @@ namespace Kutubxona.Models
     {
         public string Login { get; set; }
         public string Password { get; set; }
-        public Guid Id { get; set; }
+        public string Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public ushort Age { get; set; }
         public ushort NumberRecieved { get; set; }
-        public List<Book> Books = new List<Book>();
+        public List<Book> BooksOfReader = new List<Book>();
+
+        public Reader(string login, string password)
+        {
+            Id = Guid.NewGuid().ToString();
+            Login = login;
+            Password = password;
+        }
     }
 }
